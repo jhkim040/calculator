@@ -1,5 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const Clear = () => {
-  return "0";
+    return "0";
 };
-
-export default Clear;
+exports.default = Clear;
