@@ -31,8 +31,6 @@ a mobile ***Android*** calculator made with ***React Native, (some) Typescript**
 
 |Language|Version|
 |---|:---:|
-|HTML|5|
-|CSS|3|
 |JavaScript|ES6|
 
 ------------
