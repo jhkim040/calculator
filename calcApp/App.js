@@ -177,7 +177,8 @@ const styles = StyleSheet.create({
   },
   input: {
     flex: 2.5,
-    padding: 40,
+    paddingTop: 40,
+    paddingHorizontal: 40,
     width: "100%",
     color: "#fff",
     textAlign: "right",
@@ -186,9 +187,11 @@ const styles = StyleSheet.create({
   },
   lastResult: {
     flex: 1,
+    width: "100%",
     color: "#fff",
     textAlign: "right",
-    padding: 40,
+    paddingHorizontal: 40,
+    paddingBottom: 10,
     fontSize: 20,
   },
   box: {
