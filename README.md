@@ -1,2 +1,2 @@
 # calculator
-a mobile calculator made with React Native
+a mobile calculator made with React Native, (some) Typescript
