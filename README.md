@@ -10,7 +10,6 @@ a mobile calculator made with ***React Native, (some) Typescript***
 * *[Development Enviornment](#development-environment)*
 * *[Libraries and Frameworks](#libraries-and-frameworks)*
 * *[Project Structure](#project-structure)*
-* *[ERD](#erd)*
 * *[Implemented Functions](#implemented-functions)*
 * *[Execution Screens](#execution-screens)*
 
