@@ -1,5 +1,5 @@
-# calculator
-a mobile calculator made with ***React Native, (some) Typescript***
+# Calculator
+a mobile ***Android*** calculator made with ***React Native, (some) Typescript***
 
 (*Production Period : 2023.03.28 ~ 2023.03.31*)  
   
@@ -22,6 +22,12 @@ a mobile calculator made with ***React Native, (some) Typescript***
 |Tool|Version|
 |---|:---:|
 |Visual Studio Code|1.75.1|  
+|Android Studio|11.0.15|
+
+|Device|API|Size on Disk||
+|---|:---:|:---:|:---:|
+|Nexus 6P|28|9.4GB|Android 9.0 Google APIs x86|  
+
 
 |Language|Version|
 |---|:---:|
@@ -70,7 +76,7 @@ a mobile calculator made with ***React Native, (some) Typescript***
 
     * But Only plus to minus !!
 
-  * *Computing(press =)
+  * Computing(press =)
   
     * If you press =, the result of the current expression is computed.
 
@@ -83,6 +89,17 @@ a mobile calculator made with ***React Native, (some) Typescript***
 ------------
 # 📚Execution Screens
 * **Caculator**
- 
+
+    ![image](https://user-images.githubusercontent.com/105581574/229134549-137f8323-afe6-4383-a8a7-81f4834a3dd1.png)
+    
+    ![image](https://user-images.githubusercontent.com/105581574/229134786-259cb0ba-21e2-4479-a7ca-118b72c66137.png)
+    
+    ![image](https://user-images.githubusercontent.com/105581574/229134912-6c8124e9-b482-4f47-a681-1ff18ae03c94.png)
+    
+    ![image](https://user-images.githubusercontent.com/105581574/229134966-f4645347-c1e1-419e-8937-4d55f5bd0500.png)
+
+
+
+
 
 
